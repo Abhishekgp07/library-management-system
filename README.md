@@ -1,5 +1,6 @@
 #Project Summary: Library Management System
-Developed a web-based PHP application to streamline library operations. Key features include:
+Developed a web-based PHP application to streamline library operations.
+Key features include:
 
 Book management: Adding, editing, deleting, and searching for books.
 Member management: Registering, updating, and viewing member information.
